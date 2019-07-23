@@ -15,5 +15,6 @@
 - [前端面试100问](https://juejin.im/post/5d23e750f265da1b855c7bbe)
 - [原理性的一些函数](https://juejin.im/post/5d2ee123e51d4577614761f8)
 - [性能优化篇 - Performance（工具 & api）](https://juejin.im/post/5c8fa71d5188252d785f0ea3)
+- [vscode 快捷键](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
 
 
