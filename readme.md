@@ -16,5 +16,5 @@
 - [原理性的一些函数](https://juejin.im/post/5d2ee123e51d4577614761f8)
 - [性能优化篇 - Performance（工具 & api）](https://juejin.im/post/5c8fa71d5188252d785f0ea3)
 - [vscode 快捷键](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
-
+- [可对后端的一些概念稍作理解（涵盖高并发、分布式、高可用、微服务等）](https://github.com/doocs/advanced-java)
 
