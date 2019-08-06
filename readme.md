@@ -18,4 +18,5 @@
 - [vscode 快捷键](https://juejin.im/post/5d34fdfff265da1b897b0c8d)
 - [可对后端的一些概念稍作理解（涵盖高并发、分布式、高可用、微服务等）](https://github.com/doocs/advanced-java)
 - [网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)
-
+- [前端进阶必备，github 优质资源整理分享！](https://juejin.im/post/5d3edad9f265da03a652f133)
+- [Web端H265播放器](https://juejin.im/post/5d47ddd8e51d4561af16dcb2)
