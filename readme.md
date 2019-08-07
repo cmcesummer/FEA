@@ -20,3 +20,4 @@
 - [网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)
 - [前端进阶必备，github 优质资源整理分享！](https://juejin.im/post/5d3edad9f265da03a652f133)
 - [Web端H265播放器](https://juejin.im/post/5d47ddd8e51d4561af16dcb2)
+- [一些总结](https://github.com/qq449245884/xiaozhi)
